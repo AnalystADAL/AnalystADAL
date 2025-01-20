@@ -24,7 +24,7 @@ I’m working my way through data analysis essentials like:
 [Your LinkedIn](https://www.linkedin.com/in/yourprofile) | [Your Twitter](https://twitter.com/yourprofile) | [Your Email](mailto:you@example.com)
 --->
 
-- 👋 Hi, I’m @AnalystAlex
+- 👋 Hi, I’m A.DAL
 - 👀 I’m interested in going from data-zero to data-hero, with skills in SQL, Python, and beyond!
 - 🌱 I’m currently learning advanced SQL and building my portfolio in data science.
 - 💞️ I’m looking to collaborate on any projects that need data-crunching and insight-building. 
